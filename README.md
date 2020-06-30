@@ -1,5 +1,7 @@
-Detection of Opioid Addicts via Attention-based Bidirectional Recurrent Neural Network
+			Detection of Opioid Addicts via Attention-based Bidirectional Recurrent Neural Network
+
 Quick Start
+
 	1. Ensure your Python version is above 3.0, Tensorflow (2.2.0), Keras (2.3.1).
 	2. Creating a file folder named "embedding_glove".
 	3. Download “glove.6B.zip” from website https://nlp.stanford.edu/projects/glove/. Extract this file in the folder 		  “embedding_glove”.
